@@ -39,7 +39,8 @@ impact), so every signal demands a move far larger than that.
 ## Dev result
 
 Graded locally with the kit's `grade-local` on the frozen 24-hour dev
-window: net PnL **+$14.176790 USDC**, 4 trades, max drawdown 1.32%.
+window: net PnL **+$28.409659 USDC**, 2 round trips (4 fills, both winners),
+max drawdown 0.85%.
 
 ## Run it
 
